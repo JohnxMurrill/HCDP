@@ -17,7 +17,7 @@ data = 'NineRound_inFile.txt'
 out = readInfile(data)[:2]
 for i in out:
     pad = [[[0,85,0],i[0][2][1]]] + [k[2] for k in i] + [[[10,0,0], 0]]
-for i in xrange(len(pad)):
+for i in range(len(pad)):
     pad[i][1] = pad[-2][1] - pad[i][1]
 
 DPState = collections.namedtuple('DPState', 'period, health, cash')
