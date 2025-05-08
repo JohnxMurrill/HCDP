@@ -148,7 +148,6 @@ Additional documentation is available in the `docs/` directory:
 
 - `User_Guide.md` - Detailed instructions for using the models
 - `Version_Comparison.md` - History and differences between code versions
-- `Technical_Specification.md` - Detailed explanation of the algorithms
 
 ## Requirements
 
