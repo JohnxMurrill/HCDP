@@ -153,3 +153,13 @@ Additional documentation is available in the `docs/` directory:
 
 - Python 2.7
 - Required packages: numpy, math, csv, json
+
+## Research Applications
+
+This code was developed as part of my graduate studies to implement a dynamic programming solution to the experimental game model used in the following publications:
+
+- Bejarano, H., Kaplan, H., Rassenti, S. (2014). Effects of Retirement and Lifetime Earnings Profile on Health Investment. ESI Working Papers, 14-21. https://digitalcommons.chapman.edu/esi_working_papers/5/
+
+- Bejarano, H., Kaplan, H., Rassenti, S. (2015). Dynamic optimization and conformity in health behavior and life enjoyment over the life cycle. Frontiers in Neuroscience, 9, 137. https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2015.00137/full
+
+I am not a credited author on these publications, I developed this code to model the experimental games described therein as part of my graduate coursework/research assistantship.
